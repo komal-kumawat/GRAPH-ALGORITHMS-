@@ -1,3 +1,5 @@
+# In BFS we use QUEUE data structure
+
 #include <iostream>
 #include <vector>
 #include <queue>
